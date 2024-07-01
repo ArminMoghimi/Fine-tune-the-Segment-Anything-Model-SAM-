@@ -3,7 +3,10 @@
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
   
   
-<h3>Try it in Colab</h3> <p> You can try our fine-tuning code directly in Google Colab by clicking the link below: </p> <p> <a href="https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link"><strong>Try it in Colab:</br></br> </p> <ul> <li>Original SAM Code: <a href="https://github.com/facebookresearch/segment-anything">GitHub - Segment Anything</a></li> <li>Fine-Tuning Tutorial: <a href="https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/">Encord Blog - Fine-Tune SAM</a></li> </ul> 
+<h3>Try it in Colab</h3> <p> You can try our fine-tuning code directly in Google Colab by clicking the link below: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)  
+
+</p> <p> <a href="https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link"><strong>Try it in Colab:</br></br> </p> <ul> <li>Original SAM Code: <a href="https://github.com/facebookresearch/segment-anything">GitHub - Segment Anything</a></li> <li>Fine-Tuning Tutorial: <a href="https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/">Encord Blog - Fine-Tune SAM</a></li> </ul> 
 
 Try it in Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
@@ -14,8 +17,7 @@ Try it in Colab:</br></br>
 <h3>Dataset</h3> <p> The LuFI-RiverSNAP.v1 dataset for river water segmentation is available on multiple platforms: </p> <ul> <li><a href="https://www.kaggle.com/datasets/arminmoghimi/lufi-riversnap">Kaggle: LuFI-RiverSNAP</a></li> <li><a href="https://www2.isprs.org/commissions/comm3/icwg-3-4a/datasets/">ISPRS ICWG III/IVa "Disaster Management" Datasets</a></li> </ul> <h2>Citing Our Work</h2> <p> If you find our work helpful, please cite our paper using the following BibTeX entry: 
   
 Try it in Colab:</br></br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
-  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)  
   
   ## Cite
 Please cite the following papers if they help your research. You can use the following BibTeX entry:
