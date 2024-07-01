@@ -37,5 +37,4 @@ A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance A
   year={2023}
 }
 ```
-Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., ... & Girshick, R. (2023). Segment anything. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4015-4026).
-https://doi.org/10.48550/arXiv.2304.02643 <code> @inproceedings{kirillov2023segment, title={Segment anything}, author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others}, booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision}, pages={4015--4026}, doi={https://doi.org/10.48550/arXiv.2304.02643}, year={2023} } </code> </pre> <h2>Contact</h2> <p> For any queries or contributions, feel free to contact us. </p> </body> <
+ </code> </pre> <h2>Contact</h2> <p> For any queries or contributions, feel free to contact us. </p> </body> <
