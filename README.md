@@ -1,4 +1,9 @@
 </head> <body> <h1>Fine-Tuning SAM (Segment anything) for River Water Segmentation</h1> <h2>Overview</h2> <p> This repository presents the Python code for fine-tuning the Segment Anything Model (SAM) to perform river water segmentation from close-range remote sensing imagery. This work is based on our paper published in IEEE Access: </p> <p> <strong>A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann</strong>, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," IEEE Access, 2024. <a href="https://ieeexplore.ieee.org/document/10493013">IEEE Access</a> </p> 
+
+
+## The easy-to-use and adaptable code for river water and other segmentation tasks and use for other remote sensing datasets: 
+## Try it in Colab:</br></br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
   
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
 <!DOCTYPE html>
@@ -20,6 +25,8 @@
 
 ## Try it in Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
+
+Please also follow and read the reference codes we created for our fine-tuning SAM based on.
 <li>Original SAM Code: <a href="https://github.com/facebookresearch/segment-anything">GitHub - Segment Anything</a></li> <li>Fine-Tuning Tutorial: <a href="https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/">Encord Blog - Fine-Tune SAM</a></li> </ul> 
 
 ![Test Image 2](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig18.jpg)
