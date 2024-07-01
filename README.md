@@ -6,7 +6,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>River Water Segmentation Results</title>
 </head>
 <body>
     <p>Some examples of river water segmentation results on the LuFI-RiverSnap.<i>v1</i>. 
