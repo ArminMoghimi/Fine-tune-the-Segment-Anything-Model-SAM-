@@ -2,7 +2,9 @@
   
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
   
-  
+<h3> Try it in Colab:</br></br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
+
 <h3>Try it in Colab</h3> <p> You can try our fine-tuning code directly in Google Colab by clicking the link below: 
 </p> <p> <a href="https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link"><strong>Try it in Colab:</br></br> </p> <ul>
 </br></br>
@@ -20,7 +22,7 @@ Try it in Colab:</br></br>
   
 Try it in Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)  
-  
+
   ## Cite
 Please cite the following papers if they help your research. You can use the following BibTeX entry:
 ```
