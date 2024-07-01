@@ -48,7 +48,7 @@ Please cite the following papers if they help your research. You can use the fol
   doi={https://doi.org/10.48550/arXiv.2304.02643},
   publisher={IEEE}
 }
-
+```
 A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
 ```
 @inproceedings{kirillov2023segment,
