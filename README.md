@@ -4,14 +4,11 @@
   
   
 <h3>Try it in Colab</h3> <p> You can try our fine-tuning code directly in Google Colab by clicking the link below: 
-</p> <p> <a href="https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link"><strong>Try it in Colab:</br></br> 
+</p> <p> <a href="https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link"><strong>Try it in Colab:</br></br> </p> <ul>
 </br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
 
-
-
-
-</p> <ul> <li>Original SAM Code: <a href="https://github.com/facebookresearch/segment-anything">GitHub - Segment Anything</a></li> <li>Fine-Tuning Tutorial: <a href="https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/">Encord Blog - Fine-Tune SAM</a></li> </ul> 
+<li>Original SAM Code: <a href="https://github.com/facebookresearch/segment-anything">GitHub - Segment Anything</a></li> <li>Fine-Tuning Tutorial: <a href="https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/">Encord Blog - Fine-Tune SAM</a></li> </ul> 
 
 Try it in Colab:</br></br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
