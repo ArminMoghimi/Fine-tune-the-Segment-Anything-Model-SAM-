@@ -2,7 +2,7 @@
 
 
 ## The easy-to-use and adaptable code for river water and other segmentation tasks and use for other remote sensing datasets: 
-## Try it in Colab:</br></br>
+## Try it in Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
   
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
