@@ -1,9 +1,3 @@
-ArminMoghimi
-/
-Fine-tune-the-Segment-Anything-Model-SAM-
-
-Type / to search
-
 Code
 Issues
 Pull requests
