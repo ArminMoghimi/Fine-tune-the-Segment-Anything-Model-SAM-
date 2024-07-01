@@ -39,6 +39,7 @@ Try it in Colab:</br></br>
 
   ## Cite
 Please cite the following papers if they help your research. You can use the following BibTeX entry:
+```
 @article{moghimi2024comparative,
   title={A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery},
   author={Moghimi, Armin and Welzel, Mario and Celik, Turgay and Schlurmann, Torsten},
@@ -49,6 +50,7 @@ Please cite the following papers if they help your research. You can use the fol
 }
 
 A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
+```
 @inproceedings{kirillov2023segment,
   title={Segment anything},
   author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others},
@@ -57,5 +59,5 @@ A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance A
   doi={https://doi.org/10.48550/arXiv.2304.02643},
   year={2023}
 }
-
+```
  </code> </pre> <h2>Contact</h2> <p> For any queries or contributions, feel free to contact us. </p> </body> <
