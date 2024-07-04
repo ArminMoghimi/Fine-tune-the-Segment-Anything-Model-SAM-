@@ -6,9 +6,7 @@
 https://drive.google.com/file/d/1RfHeOxcbSpLHWAV1V2fk9OICX06Ilh7G/view?usp=drive_link
 ## The LuFI-RiverSNAP.v1 dataset for water segmentation is available in #Google Drive through this link:
 <a href="https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing">Dataset: LuFI-RiverSNAP</a></li>
-## Dataset in Google Drive: [![Open In Google Drive](https://drive.google.com/assets/drive-badge.svg](https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg)](https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing)
-
-https://drive.google.com/assets/drive-badge.svg)
+## Dataset in Google Drive: [![Open In Google Drive](https://drive.google.com/assets/drive-badge.svg)](https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing)
 
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
 
