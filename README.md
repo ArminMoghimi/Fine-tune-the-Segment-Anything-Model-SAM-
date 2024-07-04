@@ -5,10 +5,9 @@
 ## Try it in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
 https://drive.google.com/file/d/1RfHeOxcbSpLHWAV1V2fk9OICX06Ilh7G/view?usp=drive_link
 ## The LuFI-RiverSNAP.v1 dataset for water segmentation is available in #Google Drive through this link:
-## Dataset in Google Drive: [![Open In Google Drive](https://upload.wikimedia.org/wikipedia/commons/archive/1/12/20201006132532%21Google_Drive_icon_%282020%29.svg)](https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing)
+## The LuFI-RiverSNAP.v1 (river water segmentation) Dataset in Google Drive: [![Open In Google Drive](https://upload.wikimedia.org/wikipedia/commons/archive/1/12/20201006132532%21Google_Drive_icon_%282020%29.svg)](https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing)
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
 
- 
 <!DOCTYPE html>
 <html lang="en">
 <head>
