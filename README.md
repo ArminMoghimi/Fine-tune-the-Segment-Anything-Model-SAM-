@@ -3,57 +3,10 @@
 
 ## The easy-to-use and adaptable code for river water and other segmentation tasks and use for other remote sensing datasets: 
 ## Try it in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LuFI-RiverSNAP.v1 Dataset</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 5px;
-        }
-        h1 {
-            font-size: 24px;
-            margin-bottom: 20px;
-            color: #333;
-        }
-        p {
-            font-size: 16px;
-            color: #555;
-        }
-        a {
-            color: #1a73e8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>LuFI-RiverSNAP.v1 Dataset</h1>
-        <p>The LuFI-RiverSNAP.v1 dataset for water segmentation is available in <strong>Google Drive</strong>; click on the following links:</p>
-        <!-- Example Links -->
-        <p><a href="https://drive.google.com/file/d/1ExampleLink1/view?usp=sharing">Download Dataset Part 1</a></p>
-        <p><a href="https://drive.google.com/file/d/2ExampleLink2/view?usp=sharing">Download Dataset Part 2</a></p>
-    </div>
-</body>
-</html>
-
+## The LuFI-RiverSNAP.v1 dataset for water segmentation is available in #Google Drive through this link:
+<ul>
+    <li><a href="https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing">Dataset: LuFI-RiverSNAP</a></li>
+</ul>
 
  ![Test Image 1](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-/blob/main/Fig16.jpg)
 
