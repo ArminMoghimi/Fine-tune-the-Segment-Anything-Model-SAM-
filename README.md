@@ -69,5 +69,5 @@ The original paper of SAM.
 }
 ```
 
-Please cite this as our idea came from the original paper of SAM which changed the segmentation process and we appreciate it as helping us a lot. 
+Please cite the original SAM paper if you use our code and paper anyway,  as our idea came from the original paper of SAM which changed the segmentation process and we appreciate it as helping us a lot. 
  </code> </pre> <h2>Contact</h2> <p> For any queries or contributions, feel free to contact us. </p> </body> 
