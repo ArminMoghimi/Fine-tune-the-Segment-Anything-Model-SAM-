@@ -51,7 +51,7 @@ Please cite the following papers if they help your research. You can use the fol
   author={Moghimi, Armin and Welzel, Mario and Celik, Turgay and Schlurmann, Torsten},
   journal={IEEE Access},
   year={2024},
-  doi={https://doi.org/10.48550/arXiv.2304.02643},
+  doi={https://doi.org/10.1109/ACCESS.2024.3385425},
   publisher={IEEE}
 }
 ```
